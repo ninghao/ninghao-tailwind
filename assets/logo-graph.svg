@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="LogoGraph" transform="translate(1 1)">
+    <circle id="椭圆形" cx="12" cy="12" r="12" fill="rgba(0,0,0,0)" stroke="#000" stroke-width="2"/>
+    <line id="直线-4" x1="8.071" y1="10.407" transform="translate(4.142 3.08)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+    <line id="直线-2" y1="10.619" x2="7.434" transform="translate(12.212 2.867)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2"/>
+    <circle id="椭圆形-2" data-name="椭圆形" cx="4.46" cy="4.46" r="4.46" transform="translate(4.035 6.584)" fill="rgba(0,0,0,0)" stroke="#000" stroke-width="2"/>
+    <circle id="椭圆形-3" data-name="椭圆形" cx="1.487" cy="1.487" r="1.487" transform="translate(17.841 10.407)" stroke="#000" stroke-width="1"/>
+  </g>
+</svg>

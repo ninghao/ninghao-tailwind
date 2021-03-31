@@ -1,0 +1,19 @@
+{
+  "name": "ninghao-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.9",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.0.4"
+  },
+  "scripts": {
+    "build:css": "./node_modules/.bin/postcss src/tailwind.css -o dist/tailwind.css"
+  },
+  "keywords": [],
+  "author": "wanghao <wanghao@ninghao.net>",
+  "license": "ISC"
+}

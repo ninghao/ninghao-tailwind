@@ -31195,6 +31195,15 @@ video {
           animation: bounce 1s infinite;
 }
 
+.animate-spin-slow {
+  -webkit-animation: spin 5s linear infinite;
+          animation: spin 5s linear infinite;
+}
+
+.animate-spin-slow-reverse {
+  animation: spin 5s linear infinite reverse;
+}
+
 .mix-blend-normal {
   mix-blend-mode: normal;
 }
@@ -62397,6 +62406,15 @@ video {
             animation: bounce 1s infinite;
   }
 
+  .sm\:animate-spin-slow {
+    -webkit-animation: spin 5s linear infinite;
+            animation: spin 5s linear infinite;
+  }
+
+  .sm\:animate-spin-slow-reverse {
+    animation: spin 5s linear infinite reverse;
+  }
+
   .sm\:mix-blend-normal {
     mix-blend-mode: normal;
   }
@@ -93506,6 +93524,15 @@ video {
   .md\:animate-bounce {
     -webkit-animation: bounce 1s infinite;
             animation: bounce 1s infinite;
+  }
+
+  .md\:animate-spin-slow {
+    -webkit-animation: spin 5s linear infinite;
+            animation: spin 5s linear infinite;
+  }
+
+  .md\:animate-spin-slow-reverse {
+    animation: spin 5s linear infinite reverse;
   }
 
   .md\:mix-blend-normal {
@@ -124619,6 +124646,15 @@ video {
             animation: bounce 1s infinite;
   }
 
+  .lg\:animate-spin-slow {
+    -webkit-animation: spin 5s linear infinite;
+            animation: spin 5s linear infinite;
+  }
+
+  .lg\:animate-spin-slow-reverse {
+    animation: spin 5s linear infinite reverse;
+  }
+
   .lg\:mix-blend-normal {
     mix-blend-mode: normal;
   }
@@ -155730,6 +155766,15 @@ video {
             animation: bounce 1s infinite;
   }
 
+  .xl\:animate-spin-slow {
+    -webkit-animation: spin 5s linear infinite;
+            animation: spin 5s linear infinite;
+  }
+
+  .xl\:animate-spin-slow-reverse {
+    animation: spin 5s linear infinite reverse;
+  }
+
   .xl\:mix-blend-normal {
     mix-blend-mode: normal;
   }
@@ -186839,6 +186884,15 @@ video {
   .\32xl\:animate-bounce {
     -webkit-animation: bounce 1s infinite;
             animation: bounce 1s infinite;
+  }
+
+  .\32xl\:animate-spin-slow {
+    -webkit-animation: spin 5s linear infinite;
+            animation: spin 5s linear infinite;
+  }
+
+  .\32xl\:animate-spin-slow-reverse {
+    animation: spin 5s linear infinite reverse;
   }
 
   .\32xl\:mix-blend-normal {
